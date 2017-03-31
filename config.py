@@ -1,0 +1,13 @@
+BOT_TOKEN = '1234567890:1234567890-12345678'
+BOT_NAME = 'base'
+
+# yegorf1
+ADMINS = [66303244]
+
+# By default
+USE_FILE_LOGS = False
+
+#BOTAN_TOKEN = "123"
+
+# By default
+LANG = 'ru'

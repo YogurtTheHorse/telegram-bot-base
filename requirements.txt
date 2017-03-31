@@ -1,0 +1,7 @@
+python-telegram-bot
+mongothon3
+jsonpickle
+openpyxl
+requests
+pymongo
+pyyaml
