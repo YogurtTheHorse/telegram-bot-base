@@ -10,9 +10,7 @@ user_vars = {
 	'nickname': {'type': str, 'default': ''},
 	'name': {'type': str, 'default': ''},
 
-	'is_admin': {'type': bool, 'default': False},
-	'is_super_seller': {'type': bool, 'default': False},
-	'seller_info': {'type': dict, 'default': {}}
+	'is_admin': {'type': bool, 'default': False}
 }
 
 user_schema = Schema(user_vars)
